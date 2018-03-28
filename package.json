@@ -1,8 +1,9 @@
 {
   "name": "postcoder-contact-validation",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "Node package to simplify the use of the PostCoder Web API from Allies, which offers real time email address and mobile phone number validation.",
   "main": "index.js",
+  "homepage": "https://www.alliescomputing.com/postcoder/",
   "scripts": {
     "test": "mocha"
   },
